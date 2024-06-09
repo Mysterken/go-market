@@ -30,7 +30,7 @@ Chaque client peut commander un seul produit avec une quantité (id, idclient, i
 
 ```bash
 git clone
-cd go-market
+cd go-market/mariadb
 docker compose up -d
 ```
 
